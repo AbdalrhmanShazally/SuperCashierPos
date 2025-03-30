@@ -1,0 +1,5 @@
+username=ZFpOpVKSiHCyp0xYO85HJg==
+password=cUEjgrRAcv0dQYwah1Szpg==
+hostname=z8LiEkGAHRyYMGjrP9eC/w==
+dbname=SKxLTcQYhB61orUiqXaz9g==
+port=P3uwxGIT9Bjslaukz7jTZQ==
